@@ -1,0 +1,23 @@
+.framestairWay {
+    display: inline-flex;
+    align-items: flex-end;
+}
+
+.rectangleOne {
+    width: 42.193px;
+    height: 143.684px;
+    background: linear-gradient(180deg, #003865 41.67%, rgba(75, 101, 0, 0.60) 100%);
+
+}
+
+.rectangleThree {
+    width: 27.368px;
+    height: 63.86px;
+    background: linear-gradient(180deg, #003865 41.67%, rgba(75, 101, 0, 0.60) 100%);
+}
+
+.rectangleFour {
+    width: 23.947px;
+    height: 23.947px;
+    background: linear-gradient(180deg, #003865 41.67%, rgba(75, 101, 0, 0.60) 100%);
+}

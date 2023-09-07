@@ -1,0 +1,46 @@
+.frameN {
+    display: flex;
+    width: 138px;
+    height: 130px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    background: url('/Union.svg');
+}
+
+.textHolder1 {
+    margin-right: -1px;
+    position: relative;
+    transform: rotate(90deg);
+    color: #FFF;
+    font-family: Roboto Flex;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 14.257px;
+    /* 142.571% */
+}
+
+.textHolder2 {
+    position: relative;
+    transform: rotate(52deg);
+    color: #FFF;
+    font-family: Roboto Flex;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 14.3px;
+    /* 158.889% */
+}
+
+.textHolder3 {
+    margin-left: -1px;
+    position: relative;
+    transform: rotate(-90deg);
+    color: #FFF;
+    font-family: Roboto Flex;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 14.257px;/* 142.571% */
+}

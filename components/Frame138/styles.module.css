@@ -1,0 +1,33 @@
+.bigFrame1 {
+    display: flex;
+    width: 390px;
+    padding: 10px 16px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: -4px;
+    background: #FFF;
+}
+
+.bigFrame2 {
+    display: flex;
+    width: 265px;
+    padding: 9.867px;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 12.333px;
+    flex-wrap: wrap;
+    border: 3px solid #003865;
+}
+
+.bigFrame3 {
+    display: flex;
+    width: 50.567px;
+    height: 50.567px;
+    border-radius: 50.567px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    background: var(--url), lightgray 50% / contain no-repeat;
+    background-size: auto 100%;
+    background-position: center;
+}
